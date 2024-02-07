@@ -14,4 +14,4 @@ All of the examples use [OpenCV](https://github.com/NMoroney/macos-command_line_
 * [hcc 02 ave_rgb](hcc_02_ave_rgb/) : compute per frame RGB images for the daily video
 * [hcc 03 aspect ratio](hcc_03_aspect_ratio/) : comparison of OpenCV capture aspect ratio vs per frame pixel dimensions
 * [hcc 04 to gif](hcc_04_to_gif/) : generate spatially and temporally downscaled GIFs of the daily video (uses [FFmpeg](https://github.com/NMoroney/macos-command_line_examples/tree/main/examples/mc_13_ffmpeg))
-* [hcc_05_time_gradients](hcc_05_time_gradients/) : generate time gradient images where each column is a frame (time advancing left to right)
+* [hcc_05_time_gradients](hcc_05_time_gradients/) : generate time gradient where each column is a frame (time advancing left to right)
