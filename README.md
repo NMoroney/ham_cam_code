@@ -15,3 +15,4 @@ All of the examples use [OpenCV](https://github.com/NMoroney/macos-command_line_
 * [hcc 03 aspect ratio](hcc_03_aspect_ratio/) : comparison of OpenCV capture aspect ratio vs per frame pixel dimensions
 * [hcc 04 to gif](hcc_04_to_gif/) : generate spatially and temporally downscaled GIFs of the daily video (uses [FFmpeg](https://github.com/NMoroney/macos-command_line_examples/tree/main/examples/mc_13_ffmpeg))
 * [hcc_05_time_gradients](hcc_05_time_gradients/) : generate time gradient where each column is from a corresponding frame
+* [hcc_06_blueness_anomalies](hcc_06_blueness_anomalies/) : apply anomaly detection to average blueness (uses this [detector](https://github.com/ankane/AnomalyDetection.cpp))
