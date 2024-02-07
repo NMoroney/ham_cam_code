@@ -38,3 +38,9 @@ cluster 1 : 72.6637 77.1319 75.4198
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 ```
+
+And a couple frames near the cluster transitions in the above cluster assignments :
+
+| 234 | 235 | 642 | 643 |
+| --- | --- | --- | --- |
+| <img src="frame_0000234.jpg"> | <img src="frame_0000235.jpg"> | <img src="frame_0000642.jpg"> | <img src="frame_0000643.jpg"> |
