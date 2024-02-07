@@ -7,7 +7,7 @@ For this example, the [armadillo](https://arma.sourceforge.net) k-means function
 
 Previously [anomaly detection](hcc_06_blueness_anomalies/) was applied to the average blueness. In this case the average RGB's are used directly.
 
-For k-means with two clusters, presumably the clustering results should partition the frames into daylight (and night-time).
+For k-means with two clusters, presumably the clustering results should partition the frames roughly into day and night.
 
 Running k-means on January 30, 2024 with k=2 yields the results below :
 
@@ -44,3 +44,8 @@ And a couple frames near the cluster transitions in the above cluster assignment
 | 234 | 235 | 642 | 643 |
 | --- | --- | --- | --- |
 | <img src="frame_0000234.jpg"> | <img src="frame_0000235.jpg"> | <img src="frame_0000642.jpg"> | <img src="frame_0000643.jpg"> |
+
+---
+
+* repeat over wider range of days with different weather?
+* not quite ground truth but compare to [SunRise](https://github.com/signetica/SunRise) predictions for San Jose?
