@@ -9,4 +9,6 @@ The average RGB is not a partcularly fancy measure, but it will be used in anoth
 
 <img src="xy_rgb.png" width=500px>
 
-The above plot shows the daily video as an XY scatter plot where the Y-axis is time or frame number and the Y-axis is the average frame RGB.
+The above plot shows the daily video as an XY scatter plot.
+
+The X-axis of this plot is time or frame number and the Y-axis is ```(R+G+B)/3``` for the frame average RGB.
