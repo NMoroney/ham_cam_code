@@ -35,4 +35,16 @@ frame cols : 640
 
 So if you really want the exported frames to match the video player displayed aspect ratio, the frames must be re-scaled.
 
+The result re-scales the frame from this :
 
+<img src="temp_frame_01.jpg" height=320px>
+
+To this :
+
+<img src="temp_scaled_01.jpg" height=320px>
+
+
+---
+
+* apply geometric calibration (curvature of rail in lower left)?
+  
