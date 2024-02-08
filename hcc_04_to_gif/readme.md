@@ -7,4 +7,4 @@ Then [ffmpeg](https://github.com/NMoroney/macos-command_line_examples/tree/main/
 
 <img src="ham_cam_jam-04.gif" width=320px>
 
-Nothing fancy, but GIFs can be viewed directly in many contexts (such as from this github webpage).
+Pretty basic, but one advantages is that GIFs can be viewed directly in many contexts (such as from this github webpage) that don't support other video formats inline.
