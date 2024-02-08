@@ -21,7 +21,7 @@ And extracting two frames around the first and last blueness anomalies :
 
 | 226 | 236 | 636 | 646 |
 | --- | --- | --- | --- |
-| <img src="frame_0000226.jpg" width=200px><br>6:18am | <img src="frame_0000236.jpg" width=200px><br>6:34am | <img src="frame_0000636.jpg" width=200px><br>5:41pm | <img src="frame_0000646.jpg" width=200px><br>5:59pm | 
+| <img src="frame_0000226.jpg" width=200px><br>6:18am | <img src="frame_0000236.jpg" width=200px><br>6:34am | <img src="frame_0000636.jpg" width=200px><br>5:41pm | <img src="frame_0000646.jpg" width=200px><br>5:59pm - *SJC, Lights Up!* | 
 
 ---
 
